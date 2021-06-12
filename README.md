@@ -1,4 +1,4 @@
-                                                   # Face_Detection-VIOLA_JONES
+                                                 Face_Detection-VIOLA_JONES
                                                    
 What is face detection?
 
